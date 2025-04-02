@@ -48,3 +48,8 @@ pre {
     align-items: center;
     margin-top: 20px;
 }
+video {
+    width: 100%;
+    max-width: 640px;
+    height: auto;
+}
