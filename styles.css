@@ -36,3 +36,15 @@ pre {
     border-radius: 5px;
     overflow-x: auto;
 }
+.math-formula {
+    overflow-x: auto;
+    display: block;
+    max-width: 100%;
+    white-space: nowrap;
+}
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}

@@ -45,8 +45,7 @@
         <h3>Использование CNN</h3>
         <p>Сначала в качестве базового решения использовалась сверточная нейронная сеть (CNN). Однако, для ее качественного обучения требовалось большое количество данных.</p>
         <p>Основной принцип работы CNN заключается в применении сверток и подвыборок (pooling), что позволяет выделять важные признаки изображения.</p>
-        <p>Формула свертки:</p>
-        <p>\[(I * K)(x, y) = \sum_{i=-m}^{m} \sum_{j=-n}^{n} I(x+i, y+j) K(i, j)\]</p>
+        <p class="math-formula">\[(I * K)(x, y) = \sum_{i=-m}^{m} \sum_{j=-n}^{n} I(x+i, y+j) K(i, j)\]</p>
         <p>Ниже представлены графики потерь и точности обучения CNN:</p>
         <img src="images/accuracy_plot (1).png" alt="Графики accuracy для CNN">
         <img src="images/loss_plot (1).png" alt="Графики loss для CNN">
@@ -56,7 +55,7 @@
         <h3>Переход на FaceNet</h3>
         <p>Поскольку для системы проходной сложно собрать большой датасет, было принято решение использовать FaceNet.</p>
         <p>FaceNet использует триплетную функцию потерь:</p>
-        <p>\[L = \sum_{i} \max(0, || f(A_i) - f(P_i) ||^2 - || f(A_i) - f(N_i) ||^2 + \alpha )\]</p>
+        <p class="math-formula">\[L = \sum_{i} \max(0, || f(A_i) - f(P_i) ||^2 - || f(A_i) - f(N_i) ||^2 + \alpha )\]</p>
         <p>Где:</p>
         <ul>
             <li>\(A_i\) — якорное изображение</li>
@@ -69,6 +68,17 @@
         <img src="images/normalized_accuracy_progress_0.5.png" alt="График точности FaceNet при 0.5">
         <img src="images/normalized_accuracy_progress_0.7.png" alt="График точности FaceNet при 0.7">
         <p>Теперь, когда человек смотрит в камеру, его эмбеддинг вычисляется и сравнивается с базой данных для идентификации.</p>
+    </section>
+    
+    <section>
+        <h2>Демонстрация</h2>
+        <p>Видео демонстрации работы системы:</p>
+        <div class="video-container">
+            <video width="640" height="360" controls>
+                <source src="video/0402.mp4" type="video/mp4">
+                Ваш браузер не поддерживает видео.
+            </video>
+        </div>
     </section>
 </body>
 </html>
