@@ -118,18 +118,30 @@ section.visible {
     display: flex;
     justify-content: center;
     gap: 10px;
-    flex-wrap: wrap; /* исправлено с 'flex: wrap' */
+    flex-wrap: wrap;
+    max-width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
 }
 
 .prediction-row img {
-    max-width: 100%;  
-    height: auto;               /* Автоматическая высота для сохранения пропорций */
-    max-height: 300px;          /* Можно ограничить максимальную высоту, если необходимо */
-    object-fit: contain; 
+    width: 100%;
+    max-width: 300px;               /* Максимальная ширина одного изображения */
+    height: auto;
+    object-fit: contain;
     border-radius: 10px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* чуть сильнее тень */
-    border: 3px solid #ccc; /* добавлена более заметная рамка */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    border: 3px solid #ccc;
+    flex-shrink: 0;
 }
+
+/* Медиазапрос для очень маленьких экранов */
+@media (max-width: 480px) {
+    .prediction-row img {
+        max-width: 100%; /* Позволяет картинке занимать всю ширину экрана */
+    }
+}
+
 .metrics-table {
     width: 50%;
     margin: 20px auto;
