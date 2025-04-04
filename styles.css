@@ -117,14 +117,15 @@ section.visible {
 .prediction-row {
     display: flex;
     justify-content: center;
-    gap: 20px;
-    flex-wrap: nowrap;
-    margin-top: 10px;
+    gap: 10px;
+    flex: wrap;
 }
 
 .prediction-row img {
-    width: 300px; /* увеличил размер */
-    height: auto;
+    max-width: 100%;  
+    height: auto;               /* Автоматическая высота для сохранения пропорций */
+    max-height: 300px;          /* Можно ограничить максимальную высоту, если необходимо */
+    object-fit: contain; 
     border-radius: 10px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.15);
 }
