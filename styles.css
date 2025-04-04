@@ -118,7 +118,7 @@ section.visible {
     display: flex;
     justify-content: center;
     gap: 10px;
-    flex: wrap;
+    flex-wrap: wrap; /* исправлено с 'flex: wrap' */
 }
 
 .prediction-row img {
@@ -127,7 +127,8 @@ section.visible {
     max-height: 300px;          /* Можно ограничить максимальную высоту, если необходимо */
     object-fit: contain; 
     border-radius: 10px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* чуть сильнее тень */
+    border: 3px solid #ccc; /* добавлена более заметная рамка */
 }
 .metrics-table {
     width: 50%;
