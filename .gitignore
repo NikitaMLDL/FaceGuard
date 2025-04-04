@@ -1,0 +1,5 @@
+*.png
+*.zip
+/CNN/images
+__pycache__
+/jupyters
