@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727893366955203987/f0db2551337f4cb6b6a886cf37549e6c/artifacts
+deleted_time: 1743718461425
+end_time: 1743718452095
+entry_point_name: ''
+experiment_id: '727893366955203987'
+lifecycle_stage: deleted
+run_id: f0db2551337f4cb6b6a886cf37549e6c
+run_name: trusting-grub-795
+run_uuid: f0db2551337f4cb6b6a886cf37549e6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743718435790
+status: 4
+tags: []
+user_id: Никита

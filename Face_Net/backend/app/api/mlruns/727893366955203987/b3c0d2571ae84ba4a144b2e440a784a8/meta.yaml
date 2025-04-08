@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727893366955203987/b3c0d2571ae84ba4a144b2e440a784a8/artifacts
+deleted_time: 1743719963688
+end_time: 1743719951482
+entry_point_name: ''
+experiment_id: '727893366955203987'
+lifecycle_stage: deleted
+run_id: b3c0d2571ae84ba4a144b2e440a784a8
+run_name: bemused-worm-445
+run_uuid: b3c0d2571ae84ba4a144b2e440a784a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743719895706
+status: 3
+tags: []
+user_id: Никита

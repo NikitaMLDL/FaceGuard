@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727893366955203987/a7c1bfbd0cb646308cb178ba219cba33/artifacts
+deleted_time: 1743718935181
+end_time: 1743718541962
+entry_point_name: ''
+experiment_id: '727893366955203987'
+lifecycle_stage: deleted
+run_id: a7c1bfbd0cb646308cb178ba219cba33
+run_name: serious-rat-648
+run_uuid: a7c1bfbd0cb646308cb178ba219cba33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743718527804
+status: 4
+tags: []
+user_id: Никита

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727893366955203987/a9380825d1c94df38afe4af09da7715f/artifacts
+deleted_time: 1743719403606
+end_time: null
+entry_point_name: ''
+experiment_id: '727893366955203987'
+lifecycle_stage: deleted
+run_id: a9380825d1c94df38afe4af09da7715f
+run_name: bold-tern-410
+run_uuid: a9380825d1c94df38afe4af09da7715f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743719253914
+status: 1
+tags: []
+user_id: Никита

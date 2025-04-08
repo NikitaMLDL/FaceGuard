@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727893366955203987/3939c0f01dff4119bffed397bd3554ec/artifacts
+deleted_time: 1743718935179
+end_time: 1743718541987
+entry_point_name: ''
+experiment_id: '727893366955203987'
+lifecycle_stage: deleted
+run_id: 3939c0f01dff4119bffed397bd3554ec
+run_name: redolent-skunk-325
+run_uuid: 3939c0f01dff4119bffed397bd3554ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743718471485
+status: 4
+tags: []
+user_id: Никита

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727893366955203987/8729fb2abe844559b9d4ef1473cd8dd2/artifacts
+deleted_time: 1743718464782
+end_time: 1743718452070
+entry_point_name: ''
+experiment_id: '727893366955203987'
+lifecycle_stage: deleted
+run_id: 8729fb2abe844559b9d4ef1473cd8dd2
+run_name: carefree-hog-541
+run_uuid: 8729fb2abe844559b9d4ef1473cd8dd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743718435897
+status: 4
+tags: []
+user_id: Никита

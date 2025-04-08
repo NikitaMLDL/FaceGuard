@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727893366955203987/28d2e4b16f634237804bdc18952d5bcd/artifacts
+deleted_time: 1743714467937
+end_time: 1743714431415
+entry_point_name: ''
+experiment_id: '727893366955203987'
+lifecycle_stage: deleted
+run_id: 28d2e4b16f634237804bdc18952d5bcd
+run_name: caring-shrew-914
+run_uuid: 28d2e4b16f634237804bdc18952d5bcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743714370650
+status: 3
+tags: []
+user_id: Никита

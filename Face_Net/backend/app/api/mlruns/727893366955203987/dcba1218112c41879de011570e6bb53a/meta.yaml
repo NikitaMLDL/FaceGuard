@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727893366955203987/dcba1218112c41879de011570e6bb53a/artifacts
+deleted_time: 1743714467948
+end_time: 1743714459122
+entry_point_name: ''
+experiment_id: '727893366955203987'
+lifecycle_stage: deleted
+run_id: dcba1218112c41879de011570e6bb53a
+run_name: receptive-mink-156
+run_uuid: dcba1218112c41879de011570e6bb53a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743714370485
+status: 4
+tags: []
+user_id: Никита

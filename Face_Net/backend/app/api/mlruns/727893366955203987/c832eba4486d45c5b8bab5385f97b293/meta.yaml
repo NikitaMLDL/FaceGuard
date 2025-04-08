@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727893366955203987/c832eba4486d45c5b8bab5385f97b293/artifacts
+deleted_time: 1743718208778
+end_time: 1743715030703
+entry_point_name: ''
+experiment_id: '727893366955203987'
+lifecycle_stage: deleted
+run_id: c832eba4486d45c5b8bab5385f97b293
+run_name: fearless-crane-484
+run_uuid: c832eba4486d45c5b8bab5385f97b293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743714972986
+status: 3
+tags: []
+user_id: Никита

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727893366955203987/d62d83ea628e444e895223336fe856f9/artifacts
+deleted_time: 1743714777998
+end_time: 1743714765935
+entry_point_name: ''
+experiment_id: '727893366955203987'
+lifecycle_stage: deleted
+run_id: d62d83ea628e444e895223336fe856f9
+run_name: clean-whale-0
+run_uuid: d62d83ea628e444e895223336fe856f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743714669346
+status: 4
+tags: []
+user_id: Никита

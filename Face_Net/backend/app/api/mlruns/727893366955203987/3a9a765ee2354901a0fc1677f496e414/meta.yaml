@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727893366955203987/3a9a765ee2354901a0fc1677f496e414/artifacts
+deleted_time: 1743718444286
+end_time: 1743718233294
+entry_point_name: ''
+experiment_id: '727893366955203987'
+lifecycle_stage: deleted
+run_id: 3a9a765ee2354901a0fc1677f496e414
+run_name: big-cow-42
+run_uuid: 3a9a765ee2354901a0fc1677f496e414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743718214625
+status: 4
+tags: []
+user_id: Никита

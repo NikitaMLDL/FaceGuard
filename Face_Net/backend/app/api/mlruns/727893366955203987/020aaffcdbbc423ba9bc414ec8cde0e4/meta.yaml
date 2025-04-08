@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727893366955203987/020aaffcdbbc423ba9bc414ec8cde0e4/artifacts
+deleted_time: 1743720564121
+end_time: 1743720052626
+entry_point_name: ''
+experiment_id: '727893366955203987'
+lifecycle_stage: deleted
+run_id: 020aaffcdbbc423ba9bc414ec8cde0e4
+run_name: burly-grub-913
+run_uuid: 020aaffcdbbc423ba9bc414ec8cde0e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743720037107
+status: 4
+tags: []
+user_id: Никита

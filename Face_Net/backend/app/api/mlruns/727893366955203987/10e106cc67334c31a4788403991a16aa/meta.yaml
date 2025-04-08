@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/727893366955203987/10e106cc67334c31a4788403991a16aa/artifacts
+end_time: 1743719680311
+entry_point_name: ''
+experiment_id: '727893366955203987'
+lifecycle_stage: active
+run_id: 10e106cc67334c31a4788403991a16aa
+run_name: persistent-cub-627
+run_uuid: 10e106cc67334c31a4788403991a16aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743719597593
+status: 3
+tags: []
+user_id: Никита

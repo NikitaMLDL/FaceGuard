@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727893366955203987/14c4f06e0a1f49499e212471c9d7b26f/artifacts
+deleted_time: 1743718208778
+end_time: 1743714914661
+entry_point_name: ''
+experiment_id: '727893366955203987'
+lifecycle_stage: deleted
+run_id: 14c4f06e0a1f49499e212471c9d7b26f
+run_name: luminous-fly-484
+run_uuid: 14c4f06e0a1f49499e212471c9d7b26f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743714855631
+status: 3
+tags: []
+user_id: Никита

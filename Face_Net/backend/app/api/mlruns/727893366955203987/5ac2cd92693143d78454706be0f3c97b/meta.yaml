@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/727893366955203987/5ac2cd92693143d78454706be0f3c97b/artifacts
+end_time: 1743719597565
+entry_point_name: ''
+experiment_id: '727893366955203987'
+lifecycle_stage: active
+run_id: 5ac2cd92693143d78454706be0f3c97b
+run_name: masked-newt-266
+run_uuid: 5ac2cd92693143d78454706be0f3c97b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743719517958
+status: 3
+tags: []
+user_id: Никита

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727893366955203987/6d89e9c499d042948e2042bb00723bd9/artifacts
+deleted_time: 1743714778009
+end_time: 1743714765910
+entry_point_name: ''
+experiment_id: '727893366955203987'
+lifecycle_stage: deleted
+run_id: 6d89e9c499d042948e2042bb00723bd9
+run_name: secretive-owl-23
+run_uuid: 6d89e9c499d042948e2042bb00723bd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743714729176
+status: 4
+tags: []
+user_id: Никита

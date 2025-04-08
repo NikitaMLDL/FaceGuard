@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727893366955203987/85f677e1fc404fa9b6dcc97f027c65e1/artifacts
+deleted_time: 1743718935182
+end_time: 1743718527776
+entry_point_name: ''
+experiment_id: '727893366955203987'
+lifecycle_stage: deleted
+run_id: 85f677e1fc404fa9b6dcc97f027c65e1
+run_name: melodic-horse-730
+run_uuid: 85f677e1fc404fa9b6dcc97f027c65e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743718471575
+status: 3
+tags: []
+user_id: Никита

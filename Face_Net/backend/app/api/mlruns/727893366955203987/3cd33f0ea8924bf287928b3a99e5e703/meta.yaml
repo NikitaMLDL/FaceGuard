@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/727893366955203987/3cd33f0ea8924bf287928b3a99e5e703/artifacts
+end_time: 1743720627135
+entry_point_name: ''
+experiment_id: '727893366955203987'
+lifecycle_stage: active
+run_id: 3cd33f0ea8924bf287928b3a99e5e703
+run_name: fearless-auk-530
+run_uuid: 3cd33f0ea8924bf287928b3a99e5e703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743720543324
+status: 3
+tags: []
+user_id: Никита

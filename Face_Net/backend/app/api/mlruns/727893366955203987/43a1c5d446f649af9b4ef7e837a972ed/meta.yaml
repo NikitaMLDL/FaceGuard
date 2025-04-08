@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727893366955203987/43a1c5d446f649af9b4ef7e837a972ed/artifacts
+deleted_time: 1743714778000
+end_time: 1743714729113
+entry_point_name: ''
+experiment_id: '727893366955203987'
+lifecycle_stage: deleted
+run_id: 43a1c5d446f649af9b4ef7e837a972ed
+run_name: grandiose-robin-731
+run_uuid: 43a1c5d446f649af9b4ef7e837a972ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743714669456
+status: 3
+tags: []
+user_id: Никита

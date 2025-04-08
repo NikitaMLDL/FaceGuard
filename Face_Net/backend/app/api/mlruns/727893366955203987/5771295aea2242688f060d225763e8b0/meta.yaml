@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727893366955203987/5771295aea2242688f060d225763e8b0/artifacts
+deleted_time: 1743720059096
+end_time: null
+entry_point_name: ''
+experiment_id: '727893366955203987'
+lifecycle_stage: deleted
+run_id: 5771295aea2242688f060d225763e8b0
+run_name: secretive-squid-254
+run_uuid: 5771295aea2242688f060d225763e8b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743719954990
+status: 1
+tags: []
+user_id: Никита

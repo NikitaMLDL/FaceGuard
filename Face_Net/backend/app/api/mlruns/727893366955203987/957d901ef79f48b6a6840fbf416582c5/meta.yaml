@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/727893366955203987/957d901ef79f48b6a6840fbf416582c5/artifacts
+end_time: 1743720795983
+entry_point_name: ''
+experiment_id: '727893366955203987'
+lifecycle_stage: active
+run_id: 957d901ef79f48b6a6840fbf416582c5
+run_name: gifted-crab-926
+run_uuid: 957d901ef79f48b6a6840fbf416582c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743720712026
+status: 3
+tags: []
+user_id: Никита

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727893366955203987/27fc73067e744847a5c5f41f5a9d8270/artifacts
+deleted_time: 1743720059095
+end_time: 1743719680364
+entry_point_name: ''
+experiment_id: '727893366955203987'
+lifecycle_stage: deleted
+run_id: 27fc73067e744847a5c5f41f5a9d8270
+run_name: luxuriant-doe-603
+run_uuid: 27fc73067e744847a5c5f41f5a9d8270
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743719440269
+status: 3
+tags: []
+user_id: Никита

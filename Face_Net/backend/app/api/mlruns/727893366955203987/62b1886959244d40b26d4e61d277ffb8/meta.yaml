@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/727893366955203987/62b1886959244d40b26d4e61d277ffb8/artifacts
+end_time: 1743720796040
+entry_point_name: ''
+experiment_id: '727893366955203987'
+lifecycle_stage: active
+run_id: 62b1886959244d40b26d4e61d277ffb8
+run_name: monumental-snail-668
+run_uuid: 62b1886959244d40b26d4e61d277ffb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743720543212
+status: 3
+tags: []
+user_id: Никита

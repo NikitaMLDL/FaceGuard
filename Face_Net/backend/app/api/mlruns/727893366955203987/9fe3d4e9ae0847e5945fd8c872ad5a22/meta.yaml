@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727893366955203987/9fe3d4e9ae0847e5945fd8c872ad5a22/artifacts
+deleted_time: 1743719407765
+end_time: 1743719097327
+entry_point_name: ''
+experiment_id: '727893366955203987'
+lifecycle_stage: deleted
+run_id: 9fe3d4e9ae0847e5945fd8c872ad5a22
+run_name: intrigued-turtle-32
+run_uuid: 9fe3d4e9ae0847e5945fd8c872ad5a22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743719019041
+status: 3
+tags: []
+user_id: Никита

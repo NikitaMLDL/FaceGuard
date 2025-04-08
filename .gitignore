@@ -3,3 +3,5 @@
 /CNN/images
 __pycache__
 /jupyters
+/mlartifacts/
+/mlruns/

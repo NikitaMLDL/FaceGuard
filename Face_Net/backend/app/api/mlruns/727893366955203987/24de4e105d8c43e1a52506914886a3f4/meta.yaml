@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/727893366955203987/24de4e105d8c43e1a52506914886a3f4/artifacts
+deleted_time: 1743719403607
+end_time: 1743719097379
+entry_point_name: ''
+experiment_id: '727893366955203987'
+lifecycle_stage: deleted
+run_id: 24de4e105d8c43e1a52506914886a3f4
+run_name: mysterious-goat-90
+run_uuid: 24de4e105d8c43e1a52506914886a3f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743718868291
+status: 3
+tags: []
+user_id: Никита
