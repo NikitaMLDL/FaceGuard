@@ -162,5 +162,13 @@ section.visible {
     font-weight: bold;
 }
 
-
-
+.image_metrix{
+    width: 100%;
+    max-width: 300px; 
+    height: 'auto';
+}
+.responsive-img {
+    width: 800px;
+    height: auto;
+  }
+  

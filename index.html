@@ -97,6 +97,16 @@
             </div>
             <p>batch_size 256, dropout_rate 0.6, learning_rate 0.001</p>
         </div>
+        <p>Другие метрики качества</p>
+        <div style="text-align: center;">
+            <img src="images/cm_all.png" alt="cm_all" style="width: 90%; max-height: 600px; margin-bottom: 20px; object-fit: contain;">
+            <img src="images/confusion_m.png" alt="confusion matrix" style="width: 90%; max-height: 600px; margin-bottom: 20px; object-fit: contain;">
+        
+            <div style="display: flex; justify-content: center; gap: 20px;">
+                <img src="images/roc_henry.png" alt="roc henry" style="width: 45%; max-height: 500px; object-fit: contain;">
+                <img src="images/roc_zac.png" alt="roc zac" style="width: 45%; max-height: 500px; object-fit: contain;">
+            </div>
+        </div>                  
         <h3>Лучшие метрики модели</h3>
         <p>Ниже представлены наилучшие значения метрик, достигнутые во время обучения модели:</p>
         <table class="metrics-table">
@@ -150,9 +160,9 @@
                 <img src="images/normalized_accuracy_progress_0.7.png" alt="График точности FaceNet при 0.7">
             </div>
         </div>
+        <img src="images/tshe.png" alt="" class="responsive-img">
         <p>Теперь, когда человек смотрит в камеру, его эмбеддинг вычисляется и сравнивается с базой данных для идентификации.</p>
     </section>
-
     <section>
         <h2>Эксперимент на данных с перемешанными классами</h2>
         <p>При тестировании точности поиска лиц в FAISS на 200 изображениях с разными порогами, была наблюдаема разница в скорости накопления точности в зависимости от порога. Эксперимент проводился на данных с перемешанными классами, что позволило проверить способность модели корректно находить похожие лица при случайном расположении классов.</p>
@@ -160,7 +170,41 @@
         <p>На других порогах, таких как 0.5 и 0.7, точность увеличивалась быстрее, что указывает на более высокую скорость нахождения похожих лиц, так как эти пороги менее строгие и позволяют FAISS находить больше совпадений, но возможно с меньшей точностью.</p>
         <img src="images/thresholds (1).png" alt="График точности FaceNet при разных порогах">
     </section>
-
+    <section>
+        <h3>Сравнение моделей CNN и FaceNet</h3>
+        <table class="metrics-table">
+            <thead>
+              <tr>
+                <th>Метрика</th>
+                <th>CNN</th>
+                <th>FaceNet</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Accuracy</td>
+                <td>0.9516</td>
+                <td>0.9512</td>
+              </tr>
+              <tr>
+                <td>Precision</td>
+                <td>0.9519</td>
+                <td>0.9736</td>
+              </tr>
+              <tr>
+                <td>Recall</td>
+                <td>0.9516</td>
+                <td>0.9512</td>
+              </tr>
+              <tr>
+                <td>F1 Score</td>
+                <td>0.9515</td>
+                <td>0.9600</td>
+              </tr>
+            </tbody>
+          </table>
+          <p>Модель FaceNet показала более высокие значения Precision (0.9736) и F1 Score (0.9600) по сравнению с CNN, несмотря на почти равные показатели Accuracy и Recall. Это делает FaceNet более точной и сбалансированной моделью для задач классификации.</p>
+    </section>
     <section>
         <h2>Демонстрация</h2>
         <p>Видео демонстрации работы системы:</p>
